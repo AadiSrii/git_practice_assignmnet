@@ -8,7 +8,7 @@ let num1=num;
             count++;
         }
     }
-    if(count==2)
+    if(count==1)
     {
     console.log("Yes")
     }
